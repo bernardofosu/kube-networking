@@ -1,5 +1,3 @@
-
-
 # What happens when a pod runs - namespace 
 
 ```
